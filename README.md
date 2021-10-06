@@ -3,13 +3,15 @@
 
 - 🥅 2021 Goals: To contribute more to Open Source projects and find a Junior Developer job to kickstart my career!
 - ⚡ Fun fact: I love to draw and am A New Hampshire Licensed Esthetician!
+
 <a href="/LICENSE">
     <img align="center" alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
 </a>
+
 ### Connect with me:
 
-[<img align="left" alt="erikadebelisportfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Erika Debelis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="erikadebelisportfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="Erika Debelis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
