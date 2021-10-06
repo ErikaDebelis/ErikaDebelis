@@ -1,8 +1,8 @@
 ### Hi there, I'm Erika 👋
 
 
-- 🥅 2021 Goals: To contribute more to Open Source projects and find a Junior Developer job to kickstart my career!
-- ⚡ Fun fact: I love to draw and am A New Hampshire Licensed Esthetician!
+- 🥅 2021 Goals: To contribute more to Open Source projects and find a Junior Developer position to kickstart my career!
+- ⚡ Fun fact: I love to draw and am a New Hampshire licensed Esthetician!
 
 <a href="/LICENSE">
     <img align="center" alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
