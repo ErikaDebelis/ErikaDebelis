@@ -3,11 +3,12 @@
 
 - 🥅 2021 Goals: To contribute more to Open Source projects and find a Junior Developer position to kickstart my career!
 - ⚡ Fun fact: I love to draw and am a New Hampshire licensed Esthetician!
-
+<div align=center>
 <a href="/LICENSE">
-    <img align="center" alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
+    <img style="display:inline-block" alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
 </a>
-
+<img style="display:inline-block; float:right" alt="Profile views counter" width="25%" src="https://komarev.com/ghpvc/?username=ErikaDebelis&color=pink">
+</div>
 ### Connect with me:
 
 <img align="left" alt="erikadebelisportfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -30,11 +31,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="right" alt="Profile views counter" width="25%" src="https://komarev.com/ghpvc/?username=ErikaDebelis&color=periwinkle">
-</h2>
-</div>
+### GitHub Stats
 <div align=center>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true" width="50%" />
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true" width="45%" />
 
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="50%"/>
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="40%"/>
 </div>
