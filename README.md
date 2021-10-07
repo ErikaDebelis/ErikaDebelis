@@ -33,7 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <div align=center>
-  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true"  width="371px" height="147px" padding= "15px 0";/>
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true"  width="371px" height="147px" padding-top= "15px"/>
 
   <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="377px" height="147px" />
 </div>
