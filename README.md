@@ -4,10 +4,10 @@
 - 🥅 2021 Goals: To contribute more to Open Source projects and find a Junior Developer position to kickstart my career!
 - ⚡ Fun fact: I love to draw and am a New Hampshire licensed Esthetician!
 <div align=center>
-<a href="/LICENSE">
-    <img style="display:inline-block" alt="GitHub" width="130px" height="35px" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
-</a>
-<img style="display:inline-block; float:right" alt="Profile views counter" width="130px" height="35px" src="https://komarev.com/ghpvc/?username=ErikaDebelis&style=plastic&color=ff69b4">
+  <a href="/LICENSE">
+    <img style="display:inline-block" alt="GitHub" width="130px" height="25px" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
+  </a>
+  <img style="display:inline-block; float:right" alt="Profile views counter" width="130px" height="25px" src="https://komarev.com/ghpvc/?username=ErikaDebelis&color=ff69b4">
 </div>
 
 ### Connect with me:
@@ -33,8 +33,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ### GitHub Stats
-<div align=center>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true"  width="350px" height="180px" />
 
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="420px" height="165px" />
+<div align=center>
+  <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true"  width="371px" height="147px" />
+
+  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="377px" height="147px" />
 </div>
