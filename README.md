@@ -5,9 +5,9 @@
 - ⚡ Fun fact: I love to draw and am a New Hampshire licensed Esthetician!
 <div align=center>
 <a href="/LICENSE">
-    <img style="display:inline-block" alt="GitHub" width="170px" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
+    <img style="display:inline-block" alt="GitHub" width="130px" height="50px" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
 </a>
-<img style="display:inline-block; float:right" alt="Profile views counter" width="170px" src="https://komarev.com/ghpvc/?username=ErikaDebelis&style=plastic&color=ff69b4">
+<img style="display:inline-block; float:right" alt="Profile views counter" width="130px" height="50px" src="https://komarev.com/ghpvc/?username=ErikaDebelis&style=plastic&color=ff69b4">
 </div>
 
 ### Connect with me:
@@ -34,7 +34,7 @@
 
 ### GitHub Stats
 <div align=center>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true"  width="500px" height="225px" />
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true"  width="400px" height="180px" />
 
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="500px" height="225px" />
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="420px" height="165px" />
 </div>
