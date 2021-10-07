@@ -7,8 +7,9 @@
 <a href="/LICENSE">
     <img style="display:inline-block" alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
 </a>
-<img style="display:inline-block; float:right" alt="Profile views counter" width="25%" src="https://komarev.com/ghpvc/?username=ErikaDebelis&color=pink">
+<img style="display:inline-block; float:right" alt="Profile views counter" width="50%" src="https://komarev.com/ghpvc/?username=ErikaDebelis&style=plastic&color=ff69b4">
 </div>
+
 ### Connect with me:
 
 <img align="left" alt="erikadebelisportfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -33,7 +34,7 @@
 
 ### GitHub Stats
 <div align=center>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true" width="45%" />
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=ErikaDebelis&show_icons=true&theme=algolia&hide_border=true" width="45%" height="60%" />
 
-<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="40%"/>
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDebelis&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="40%" height="50%" />
 </div>
