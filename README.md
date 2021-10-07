@@ -7,7 +7,7 @@
   <a href="/LICENSE">
     <img style="display:inline-block" alt="GitHub" width="130px" height="25px" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
   </a>
-  <img style="display:inline-block; float:right" alt="Profile views counter" width="130px" height="25px" src="https://komarev.com/ghpvc/?username=ErikaDebelis&color=ff69b4">
+  <img style="display:inline-block; float:right" alt="Profile views counter" width="130px" height="25px" src="https://komarev.com/ghpvc/?username=ErikaDebelis&style=flat-square&color=ff69b4">
 </div>
 
 ### Connect with me:
