@@ -1,7 +1,7 @@
 ### Hi there, I'm Erika 👋
 
 
-- 🥅 2021 Goals: To contribute more to Open Source projects and find a Junior Developer position to kickstart my career!
+- 🥅 2025 Goals: To contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and am a New Hampshire licensed Esthetician!
 <div align=center>
   <a href="/LICENSE">
@@ -11,8 +11,6 @@
 </div>
 
 ### Connect with me:
-
-<img align="left" alt="erikadebelisportfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Erika Debelis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
